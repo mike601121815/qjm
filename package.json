@@ -1,0 +1,19 @@
+{
+  "name": "qjm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike601121815/qjm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike601121815/qjm/issues"
+  },
+  "homepage": "https://github.com/mike601121815/qjm#readme"
+}
